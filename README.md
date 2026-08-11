@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Layla! 👋
 
-<!--
-**laytech-create/laytech-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT & Cybersecurity
 
-Here are some ideas to get you started:
+IT & Cybersecurity learner building hands-on experience through virtual labs, technical projects, and practical troubleshooting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing skills in:
+
+- 🖥️ Windows
+- 🔐 Cybersecurity
+- 🏢 Active Directory
+- 🌐 Networking
+- 🛠️ IT Troubleshooting
+- 🧪 Hands-on Virtual Labs
+
+## Certifications
+
+- **CompTIA Security+**
+
+## Hands-On Experience
+
+- TryHackMe labs
+- Active Directory virtual lab
+- Windows administration and troubleshooting
+- Networking fundamentals
+
+## Current Goals
+
+I'm continuing to build practical IT experience through hands-on labs, projects, and real-world technical scenarios.
+
+---
+**Security+ Certified | IT & Cybersecurity | Hands-On Labs & Projects**
