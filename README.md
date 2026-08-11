@@ -7,7 +7,9 @@ Currently developing skills in:
 - 🖥️ Windows
 - 🏢 Active Directory
 - 🌐 Networking
-- 🐧 Linux
+- 🎫 Ticketing Systems
+- ⚡ PowerShell
+- 🛠️ Troubleshooting
   
 ## Certifications
 
