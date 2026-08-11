@@ -1,8 +1,8 @@
-# Hi, I'm Layla! 👋
+# Hi, I'm Layla! 
 
 ### IT & Cybersecurity
 
-IT learner building hands-on experience through virtual labs, technical projects, and practical troubleshooting.
+Determined learner building hands-on experience through virtual labs, technical projects, and practical troubleshooting.
 
 Currently developing skills in:
 
